@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a3f9f88-0057-476f-b854-e4b91b156c7b" name="변경" comment="ksmart java 2번째 레포지토리">
+    <list default="true" id="5a3f9f88-0057-476f-b854-e4b91b156c7b" name="변경" comment="Merge remote-tracking branch 'origin/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ksmartjava2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ksmartjava2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/generic/UtilExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generic/UtilExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,26 +22,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "author": "jyPark4321"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;jyPark4321&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN",
-    "author": "jyPark4321"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;jyPark4321&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jyPark4321/ksmart2.git",
-    "accountId": "069f35a2-d1cd-4614-a2de-6b90d1b4d965"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jyPark4321/ksmart2.git&quot;,
+    &quot;accountId&quot;: &quot;069f35a2-d1cd-4614-a2de-6b90d1b4d965&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -62,14 +64,19 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.GenericExample.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.UtilExample.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="genericMethod" />
       <recent name="generic" />
     </key>
   </component>
@@ -91,6 +98,7 @@
       <updated>1713504070257</updated>
       <workItem from="1713504071278" duration="398000" />
       <workItem from="1713504479752" duration="5341000" />
+      <workItem from="1713510894236" duration="1594000" />
     </task>
     <task id="LOCAL-00001" summary="ksmart java 2번째 레포지토리">
       <option name="closed" value="true" />
@@ -132,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713506482884</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1713510977712</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713510977712</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +156,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ksmart java 2번째 레포지토리" />
-    <option name="LAST_COMMIT_MESSAGE" value="ksmart java 2번째 레포지토리" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
